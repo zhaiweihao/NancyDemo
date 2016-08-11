@@ -1,0 +1,8 @@
+# compiled files
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+packages/
+# user files
+*.user
+*.suo
